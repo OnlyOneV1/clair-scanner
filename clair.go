@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/coreos/clair/api/v1"
+	"github.com/quay/clair/tree/release-2.0/api/v1"
 )
 
 const (
